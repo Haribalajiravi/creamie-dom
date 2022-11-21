@@ -1,0 +1,8 @@
+dist: trusty
+os: linux
+language: node_js
+node_js:
+- 17
+script:
+- "npm run lint"
+- "npm test"
