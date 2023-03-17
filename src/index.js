@@ -1,1 +1,1 @@
-export * from './html-tags';
+export * from './create-element';
